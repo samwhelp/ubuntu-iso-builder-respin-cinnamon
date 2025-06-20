@@ -1,0 +1,40 @@
+
+
+##
+## # Desktop Environment
+##
+
+
+
+
+##
+## ## Package / Desktop Environment / Cinnamon
+##
+
+cinnamon-desktop-environment
+#cinnamon
+
+
+mate-terminal
+lxterminal
+sakura
+
+
+
+
+##
+## ## Package / Desktop Environment
+##
+
+accountsservice
+
+asunder
+atril
+
+
+gnome-disk-utility
+gnome-keyring
+gnome-nettool
+gnome-system-tools
+
+remmina
